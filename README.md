@@ -12,5 +12,6 @@ Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate
   - 01 python básico
   - 02 condicionales
   - 03 bucles
+  - 04 Pandas
   - SpaceX 1: trabajando con pandas sobre dataframe obtenido de la api de spacex
 
