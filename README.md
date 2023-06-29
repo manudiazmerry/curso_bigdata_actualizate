@@ -15,3 +15,9 @@ Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate
   - 04 Pandas
   - SpaceX 1: trabajando con pandas sobre dataframe obtenido de la api de spacex
 
+### Carpeta: 2023-06-28 notebooks
+Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate, del día de la fecha indicada, profe Luis Sastre
+  - 06 introducción a machine learning
+  - 09 práctica mapas con folium (crímenes SanFrancisco, Canadá, ...)
+  - 03 uso del algoritmo Prophet de fb(mega) para predecir valor BNB con data de yahoo finance
+  
