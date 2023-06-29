@@ -19,5 +19,5 @@ Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate
 Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate, del día de la fecha indicada, profe Luis Sastre
   - 06 introducción a machine learning
   - 09 práctica mapas con folium (crímenes SanFrancisco, Canadá, ...)
-  - 03 uso del algoritmo Prophet de fb(mega) para predecir valor BNB con data de yahoo finance
+  - 03 uso del algoritmo Prophet de fb(mega) para predecir valor BNB con data de la api yahoo finance
   
