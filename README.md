@@ -24,9 +24,7 @@ Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate
 ### Carpeta: 2023-06-29 notebooks
 Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate, del día de la fecha indicada, profe Luis Sastre
   - SpaceX 1
-  - SpaceX 4
-  - SpaceX 2-5
-  - SpaceX 2-6
-
-    
+  - SpaceX 4: EDA, visualización de datos con gráficas
+  - SpaceX 2-5: visualización de datos en mapas con Folium
+  - SpaceX 2-6: ML, predicción successful con Scikit-Learn (LogisticRegression, SVC, DecisionTreeClassifier, KNeighborsClassifier) 
   
