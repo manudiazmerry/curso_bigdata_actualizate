@@ -21,3 +21,12 @@ Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate
   - 09 práctica mapas con folium (crímenes SanFrancisco, Canadá, ...)
   - 03 uso del algoritmo Prophet de fb(mega) para predecir valor BNB con data de la api yahoo finance
   
+### Carpeta: 2023-06-29 notebooks
+Carpeta con los notebooks de ejercicios de python, del curso bigdata actualizate, del día de la fecha indicada, profe Luis Sastre
+  - SpaceX 1
+  - SpaceX 4
+  - SpaceX 2-5
+  - SpaceX 2-6
+
+    
+  
